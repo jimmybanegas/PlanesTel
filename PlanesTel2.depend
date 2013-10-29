@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1383077200 source:c:\users\affisa-jimmy\google drive\progra 3\planestel2\plan.cpp
+	"include\Plan.h"
+
+1383073155 source:c:\users\affisa-jimmy\google drive\progra 3\planestel2\planblackberry.cpp
+	"PlanBlackberry.h"
+
+1383073590 c:\users\affisa-jimmy\google drive\progra 3\planestel2\planblackberry.h
+	<string>
+	<iostream>
+	<vector>
+
+1383072961 source:c:\users\affisa-jimmy\google drive\progra 3\planestel2\planiphone.cpp
+	"PlanIphone.h"
+
+1383074387 c:\users\affisa-jimmy\google drive\progra 3\planestel2\planiphone.h
+	"Plan.h"
+	<string>
+	<iostream>
+	<vector>
+
+1383074367 c:\users\affisa-jimmy\google drive\progra 3\planestel2\plan.h
+	<string>
+	<iostream>
+
+1383076831 source:c:\users\affisa-jimmy\google drive\progra 3\planestel2\tigo.cpp
+	"Tigo.h"
+
+1383078829 c:\users\affisa-jimmy\google drive\progra 3\planestel2\tigo.h
+	<string>
+	<iostream>
+	<vector>
+	"Plan.h"
+
+1383079238 source:c:\users\affisa-jimmy\google drive\progra 3\planestel2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Plan.h"
+	"PlanIphone.h"
+	"PlanBlackberry.h"
+	"Tigo.h"
+
